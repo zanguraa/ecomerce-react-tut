@@ -28,7 +28,13 @@ const ShopContextProvider = (props) => {
     });
   };
 
-  const contextValue = { cartItems, addToCart, removeFromCart };
+  const updateCart = (id, count) => {
+    setCartItems((prevState) => {
+      return { ...prevState, [id]: count };
+    });
+  };
+
+  const contextValue = { cartItems, addToCart, removeFromCart, updateCart };
 
   return (
     <ShopContext.Provider value={contextValue}>
