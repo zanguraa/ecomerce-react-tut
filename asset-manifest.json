@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ecomerce-react-tut/static/css/main.d29f32d8.css",
+    "main.js": "/ecomerce-react-tut/static/js/main.cd7a5197.js",
+    "static/media/Apple_iPhone_12_Pro.png": "/ecomerce-react-tut/static/media/Apple_iPhone_12_Pro.ef2a39458f4e3ea2dffe.png",
+    "static/media/Apple_iPhone_12_Pro_Max.png": "/ecomerce-react-tut/static/media/Apple_iPhone_12_Pro_Max.1622c7076b4a6efeef82.png",
+    "static/media/Apple_iPhone_12_Mini.png": "/ecomerce-react-tut/static/media/Apple_iPhone_12_Mini.2b401df784a648caeac9.png",
+    "static/media/Apple_iPhone_11.png": "/ecomerce-react-tut/static/media/Apple_iPhone_11.5665be7294c7adc10eff.png",
+    "static/media/Apple_iPhone_12.png": "/ecomerce-react-tut/static/media/Apple_iPhone_12.89a147ea480ca10538e4.png",
+    "static/media/Apple_iPhone_SE.png": "/ecomerce-react-tut/static/media/Apple_iPhone_SE.1ae0ce501ca0b15a9a68.png",
+    "static/media/Apple_iPhone_11_Pro.png": "/ecomerce-react-tut/static/media/Apple_iPhone_11_Pro.e36e730601e6252dd268.png",
+    "index.html": "/ecomerce-react-tut/index.html",
+    "main.d29f32d8.css.map": "/ecomerce-react-tut/static/css/main.d29f32d8.css.map",
+    "main.cd7a5197.js.map": "/ecomerce-react-tut/static/js/main.cd7a5197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29f32d8.css",
+    "static/js/main.cd7a5197.js"
+  ]
+}
